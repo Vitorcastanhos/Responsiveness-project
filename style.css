@@ -15,7 +15,7 @@ body {
   font-size: 1.6rem;
   font-family: "Epilogue", sans-serif;
 
-  background-color: #ece9fd;
+  background-color: #5adbe2;
 }
 
 .container {
@@ -93,6 +93,8 @@ ul li span {
     max-width: 1200px;
     display: flex;
     gap: 8rem;
+    justify-content: center;
+    align-items: center;
   }
 
   .wrapper {
@@ -107,7 +109,7 @@ ul li span {
   .wrapper > p {
     margin-bottom: 3rem;
   }
-  
+
   h1 {
     margin-bottom: 4rem;
   }
